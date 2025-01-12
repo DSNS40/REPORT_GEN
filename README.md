@@ -1,1 +1,15 @@
 # REPORT_GEN
+
+**COMPANY** : CODTECH IT SOLUTIONS
+
+**NAME** : D SREENIVAS
+
+**INTERN ID** : CT6WDS2684
+
+**DOMAIN** : PYTHON
+
+**BATCH DURATION** : DECEMBE 5th,2024 to JANUARY 20th,2025
+
+# OUTPUT OF THE TASK
+
+![Screenshot (6)](https://github.com/user-attachments/assets/73d0838b-af52-42a8-95c6-bf179db99f4f)
